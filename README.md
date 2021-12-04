@@ -23,3 +23,5 @@ In order to verify that everything is setup correctly, run the following command
 Every time you want to check your work locally you can type that command, and it will report the status of every task in that module.
 
 As you move through the modules, you can run module-specific tests with the script `npm run test:module1`, replacing the number with one that corresponds with the module you are working in.
+
+Use `node js/gameoflife.js rpentomino 50` to simulate
